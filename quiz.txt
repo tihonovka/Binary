@@ -1,0 +1,60 @@
+1.  Mi a 10110010 bináris szám decimális értéke?  # 06ee8696
+178
+2.  Mi a 1101 bináris szám decimális értéke?  # 2198fb32
+13
+3.  Mi a 0101 bináris szám decimális értéke?  # 61839593
+5
+4.  Mi a 11011 bináris szám decimális értéke?  # 1a9ab486
+27
+5.  Mi a 00000001 bináris szám decimális értéke?  # 225bc5f0
+1
+6.  Mi a 0110 bináris szám decimális értéke?  # 26bd0e49
+6
+7.  Mi a 100100 bináris szám decimális értéke?  # 4681b74f
+36
+8.  Mi a 1111111 bináris szám decimáli178s értéke?  # 8f09d17c
+52
+9.  Mi a 001011 bináris szám decimális értéke?  # 724bef78
+11
+10.  Mi a 1101100 bináris szám decimális értéke?  # 15c671bb
+108
+11.  Mi a 1001 bináris szám decimális értéke?  # 08c665a0
+9
+12.  Mi a 0000 bináris szám decimális értéke?  # f7e0da85
+0
+13.  Mi a 01101001 bináris szám decimális értéke?  # 92d18f8f
+105
+14.  Mi a 00111101 bináris szám decimális értéke?  # bdf03415
+61
+15.  Mi a 10100 bináris szám decimális értéke?  # 3f485665
+20
+16.  Mi a 111100 bináris szám decimális értéke?  # 53e61319
+60
+17.  Mi a 00100000 bináris szám decimális értéke?  # cfc1e451
+32
+18.  Mi a 10110 bináris szám decimális értéke?  # a9be4d8b
+22
+19.  Mi a 0001101 bináris szám decimális értéke?  # 960bc3b1
+13
+20.  Mi a 10000010 bináris szám decimális értéke?  # 2fc66fe7
+130
+21.  Mi a 11100011 bináris szám decimális értéke?  # cf13faeb
+227
+22.  Mi a 11010 bináris szám decimális értéke?  # d67cfa8d
+26
+23.  Mi a 10110100 bináris szám decimális értéke?  # 558571cf
+180
+24.  Mi a 1011110 bináris szám decimális értéke?  # 647f93c0
+94
+25.  Mi a 1110001 bináris szám decimális értéke?  # 9d43aa12
+113
+26.  Mi a 01100 bináris szám decimális értéke?  # a7e2427d
+12
+27.  Mi a 00111 bináris szám decimális értéke?  # 89c73c70
+7
+28.  Mi a 11101 bináris szám decimális értéke?  # a027d2c6
+29
+29.  Mi a 111010 bináris szám decimális értéke?  # a54b22c6
+58
+30.  Mi a 00001110 bináris szám decimális értéke?  # 96adb77f
+14
